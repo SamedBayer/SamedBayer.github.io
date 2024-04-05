@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "index.html", title: "Home", icon: home}
   # - {file: "README.md", title: "About me"}
   - {file: "index.html", title: "About me"}
-  - {file: "Bayer_Samed_CV.pdf", title: "CV"}
+  - {file: "BayerSamed_Resume.pdf", title: "CV"}
   # - {file: "CV.md", title: "Education/Experience"}
   - {file: "CV_2.html", title: "Education/Experience"}
 
