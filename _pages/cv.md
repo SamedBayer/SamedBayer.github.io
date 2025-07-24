@@ -13,10 +13,10 @@ redirect_from:
 ## Education
 
 **Since 11/2024** | **PhD Candidate**  
-Technische Universität München
+Technical University of Munich (TUM)
 
 **10/2021 - 05/2024** | **Computational Science and Engineering M.Sc.**  
-Technische Universität München
+Technical University of Munich (TUM)
 
 **10/2018 - 06/2021** | **Industrial Engineering - Operations Research B.Sc. (Minor)**  
 Boğaziçi Üniversitesi
@@ -29,7 +29,7 @@ Boğaziçi Üniversitesi
 ## Professional Experiences
 
 **Since 11/2024** | **Research Associate**  
-Technische Universität München
+Technical University of Munich (TUM)
 
 **Since 12/2024** | **AI Researcher**  
 Fraunhofer-Gesellschaft
@@ -47,11 +47,11 @@ Siemens
 
 ## Teaching
 
-I supervise several theses. If you are interested in my research, please get in touch with me.
+I supervise several theses. If you're interested in my research, feel free to reach out.
 
 **WiSe 24/25** | **Teaching Assistant for "Advanced Topics of Software Engineering"**
 
----
+<!-- --- -->
 
 <!-- ## Languages
 
