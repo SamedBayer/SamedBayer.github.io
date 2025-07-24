@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am Samed Bayer, a PhD candidate at the Technical University of Munich (TUM), specializing in Generative AI for Research and Science. 
+I’m a PhD researcher at [Technical University of Munich (TUM)](https://www.cs.cit.tum.de/en/isdo/staff/samed-bayer/) advised by Prof. Ingo Weber. I work on Generative AI for automating and accelerating scientific discovery, focusing on AI Agents, Knowledge Representation/Discovery and Information Retrieval. I build/evaluate systems that turn LLMs into reliable research partners.
 
-My PhD focuses on leveraging Generative AI to enhance the efficiency of researchers and scientists, exploring solutions that improve their workflows and productivity. I am particularly passionate about developing AI-driven tools to simplify and accelerate scientific discovery. 
+I completed my M.Sc. in Computational Science and Engineering at TUM and my B.Sc. at Boğaziçi University. I previously interned at Siemens, Boshc and several AI startups. 
 
-I completed my M.Sc. in Computational Science and Engineering at TUM and my B.Sc. in Mechanical Engineering with a minor in Industrial Engineering at Boğaziçi University. I gained valuable experience through multiple industry internships as an AI Engineer and a Software Engineer.
+I enjoy mentoring students and collaborating with excellent researchers. If you are interested in discussing my work, I am happy to chat.
+
 
 ## Research Interests
 
 - Generative AI and its applications in research workflows
-- AI-assisted knowledge discovery and synthesis
-- Retrieval-Augmented Generation (RAG) for knowledge enhancement
+- AI-assisted information retrieval, RAG, knowledge discovery and synthesis
+- Human-AI co-creation interfaces and workflows
 - AI Agents for automated reasoning and interaction

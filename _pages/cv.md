@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Curriculum Vitae
 
 ## Education
 
@@ -20,10 +19,10 @@ Technische Universität München
 Technische Universität München
 
 **10/2018 - 06/2021** | **Industrial Engineering - Operations Research B.Sc. (Minor)**  
-Boğaziçi Üniversitesi, Turkey
+Boğaziçi Üniversitesi
 
 **10/2015 - 06/2021** | **Mechanical Engineering B.Sc.**  
-Boğaziçi Üniversitesi, Turkey
+Boğaziçi Üniversitesi
 
 ---
 
@@ -48,11 +47,13 @@ Siemens
 
 ## Teaching
 
+I supervise several theses. If you are interested in my research, please get in touch with me.
+
 **WiSe 24/25** | **Teaching Assistant for "Advanced Topics of Software Engineering"**
 
 ---
 
-## Languages
+<!-- ## Languages
 
 - **English**: Fluent
 - **German**: Intermediate
@@ -64,4 +65,4 @@ Siemens
 
 - **Email**: samed.bayer@tum.de
 - **Institution**: Technical University of Munich (TUM)
-- **LinkedIn**: [Samed Bayer](https://www.linkedin.com/in/samed-bayer-094140158/)
+- **LinkedIn**: [Samed Bayer](https://www.linkedin.com/in/samed-bayer-094140158/) -->
